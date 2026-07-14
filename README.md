@@ -157,38 +157,8 @@ Streamlit Web Application
 - Customer Segmentation
 - Machine Learning Deployment
 - Clean and User-Friendly Interface
-- Real-Time Predictions
-
----
-
-# ▶️ How to Run the Project
-
-## Clone Repository
-
-```bash
-git clone https://github.com/VaishaliMehta2003/Banking-Prediction-System.git
-```
-
-## Move to Project Folder
-
-```bash
-cd Banking-Prediction-System
-```
-
-## Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-## Run Streamlit
-
-```bash
-streamlit run app.py
-```
-
----
-
+- Real-Time Prediction
+- 
 # 📈 Business Impact
 
 This solution enables banks to:
@@ -224,10 +194,19 @@ This solution enables banks to:
 - REST API Integration
 - Real-Time Database Connectivity
 
-# Dashboard 
+# Dashboard Preview
+## Customer Overview
 <img width="662" height="385" alt="image" src="https://github.com/user-attachments/assets/a9deec02-5e79-445a-88f3-1e3249653123" />
+
+## Transaction Overview
+
 <img width="637" height="360" alt="image" src="https://github.com/user-attachments/assets/f015b5bc-7ed5-45d0-a270-ebc4bddc4120" />
+
+## Loan Risk Overview 
+
 <img width="637" height="359" alt="image" src="https://github.com/user-attachments/assets/2eae5210-9cf2-4024-bc10-9e50f4470878" />
+
+## Bank Product Overview
 <img width="637" height="356" alt="image" src="https://github.com/user-attachments/assets/ab59ae2a-e615-47b2-ad2d-9a60a69e90bb" />
 
 
