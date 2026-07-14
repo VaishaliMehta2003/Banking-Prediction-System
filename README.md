@@ -147,7 +147,6 @@ Streamlit Web Application
 
 ---
 
-# 📂 Project Structure
 
 # ✨ Features
 
@@ -224,3 +223,12 @@ This solution enables banks to:
 - Cloud Deployment (AWS/Azure)
 - REST API Integration
 - Real-Time Database Connectivity
+
+# Dashboard 
+<img width="662" height="385" alt="image" src="https://github.com/user-attachments/assets/a9deec02-5e79-445a-88f3-1e3249653123" />
+<img width="637" height="360" alt="image" src="https://github.com/user-attachments/assets/f015b5bc-7ed5-45d0-a270-ebc4bddc4120" />
+<img width="637" height="359" alt="image" src="https://github.com/user-attachments/assets/2eae5210-9cf2-4024-bc10-9e50f4470878" />
+<img width="637" height="356" alt="image" src="https://github.com/user-attachments/assets/ab59ae2a-e615-47b2-ad2d-9a60a69e90bb" />
+
+
+
